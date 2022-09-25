@@ -1,16 +1,16 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Mahad Ali",
+      "titles": [ "I  am a student at code fellow, I recently graduated from evergreen." ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/mmahad865?tab=repositories",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/mahad_206/",
           "class": "fab fa-instagram"
         }
       ],
